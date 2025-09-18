@@ -1,10 +1,10 @@
-</head>
+
 <body>
 
   <h1>Isabella da Silva Andrade</h1>
  <p><strong>Estudante de Redes de Computadores | Futura Profissional de TI</strong></p>
   <p>Email: <a href="mailto:isabellaandradesilva1@gmail.com">isabellaandradesilva1@gmail.com</a></p>
-  <p>Telefone: (12) 98563-4628</a></p>
+  <p>Telefone: (12) 98563-4628
 
 
 <h2>Objetivos</h2>
