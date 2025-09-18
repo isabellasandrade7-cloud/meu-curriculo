@@ -1,2 +1,60 @@
-# meu-curriculo
-Meu currículo pessoal em formato web
+</head>
+<body>
+
+  <h1>Isabella da Silva Andrade</h1>
+ <p><strong>Estudante de Redes de Computadores | Futura Profissional de TI</strong></p>
+  <p>Email: <a href="mailto:isabellaandradesilva1@gmail.com">isabellaandradesilva1@gmail.com</a></p>
+  <p>Telefone: (12) 98563-4628</a></p>
+
+
+<h2>Objetivos</h2>
+<p>
+  Meu principal objetivo é desenvolver minhas habilidades técnicas na área de <strong>redes de computadores</strong> e <strong>tecnologia</strong>, buscando aprender e aplicar meus conhecimentos adquiridos no curso técnico do SENAI. Estou em busca de uma oportunidade de <strong>estágio</strong> ou <strong>primeiro emprego</strong>, onde eu possa aplicar a teoria aprendida em sala de aula, adquirir experiência prática no mercado de trabalho e continuar meu crescimento profissional. Tenho o desejo de trabalhar em equipe, contribuir com soluções criativas e inovadoras e expandir meu aprendizado em um ambiente desafiador.
+</p>
+
+
+  <h2>Sobre Mim</h2>
+  <p>Tenho 16 anos e atualmente estou cursando o 2º ano do Ensino Médio, integrado ao curso técnico de Redes de Computadores no SENAI. Tenho grande interesse por tecnologia, especialmente nas áreas de redes, sistemas e desenvolvimento de software.
+
+Considero-me uma pessoa responsável, organizada e sempre em busca de aprendizado contínuo. Possuo facilidade em trabalhar em equipe, colaborando de forma eficaz para alcançar objetivos comuns. Estou comprometida com o desenvolvimento de minhas habilidades tanto no âmbito teórico quanto prático.
+
+Atualmente, busco minha primeira oportunidade de estágio ou emprego, onde possa aplicar os conhecimentos adquiridos até o momento e continuar meu crescimento profissional, contribuindo de maneira significativa para a empresa e aprimorando minhas competências na área de tecnologia.</p>
+
+  <h2>Educação</h2>
+<ul>
+  <li><strong>Ensino Médio</strong> - Escola Estadual Dr. Rui Rodrigues Dória (Conclusão prevista: 2026)</li>
+  <li><strong>Técnico em Redes de Computadores</strong> - SENAI São Paulo (Início: 2025, Previsão de Conclusão: 2026)</li>
+  <li><strong>Curso de Inglês</strong> - Wizard Idiomas (Início: 2019, Previsão de Conclusão: 2026)</li>
+</ul>
+
+
+<h2>Cursos Concluídos</h2>
+<ul>
+  <li><strong>Ética na Inteligência Artificial</strong> — SENAI São Paulo (4h, 17/03/2025 a 06/05/2025)</li>
+  <li><strong>Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900</strong> — SENAI São Paulo (40h, 24/02/2025 a 10/03/2025)</li>
+  <li><strong>Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundational</strong> — SENAI São Paulo (40h, 07/02/2025 a 17/02/2025)</li>
+  <li><strong>Competência Transversal - Segurança no Trabalho</strong> — SENAI São Paulo (14h, 17/03/2025 a 20/05/2025)</li>
+  <li><strong>Excel Básico</strong> — SENAI São Paulo (20h, 17/03/2025 a 26/05/2025)</li>
+  <li><strong>Fluência - Fundamentos da Inteligência Artificial</strong> — SENAI São Paulo (8h, 17/03/2025 a 23/05/2025)</li>
+  <li><strong>Por Dentro da Segurança Cibernética</strong> — SENAI São Paulo (4h, 17/03/2025 a 22/05/2025)</li>
+  <li><strong>Desvendando a Descarbonização</strong> — SENAI São Paulo (20h, 17/03/2025 a 26/05/2025)</li>
+</ul>
+
+<h2>Habilidades Técnicas</h2>
+<ul>
+  <li>Configuração de redes locais (LAN)</li>
+  <li>Conhecimento básico em infraestrutura de TI</li>
+  <li>Noções de segurança da informação</li>
+  <li>Conceitos de computação em nuvem (AWS, Microsoft Azure)</li>
+  <li>Desenvolvimento web básico: HTML, CSS</li>
+  <li>Pacote Office com foco em Excel</li>
+  <li>Utilização de ferramentas como GitHub e VS Code</li>
+</ul>
+
+<h2>Idiomas</h2>
+<ul>
+  <li><strong>Inglês:</strong> Intermediário (em curso na Wizard Idiomas desde 2019)</li>
+  <li><strong>Português:</strong> Nativo</li>
+</ul>
+
+
